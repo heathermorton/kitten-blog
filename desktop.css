@@ -1,0 +1,20 @@
+@media (min-width: 1080px) {
+
+    body > header {
+        flex-direction: row;
+    }
+
+body > header > nav > ul {
+    align-items: centre;
+}
+
+
+body > main {
+    flex-direction: row;
+}
+
+body > main > article {
+    padding: 100px;
+}
+
+}
